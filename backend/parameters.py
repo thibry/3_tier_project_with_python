@@ -1,15 +1,12 @@
-
 import requests
 
+master_username = "root"
 
+db_password = "devopsPassword"
 
-master_username = "admin"
+endpoint = "localhost"
 
-db_password = "Bonaberi2022"
-
-endpoint = "database-1.cf6y2u2o0z6m.ca-central-1.rds.amazonaws.com"
-
-db_instance_name = "todo"
+db_instance_name = "devopsdb"
 
 
 if __name__ == "__main__":
