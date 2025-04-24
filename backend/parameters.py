@@ -4,9 +4,9 @@ master_username = "admin"
 
 db_password = "admin123"
 
-endpoint = "app3tier-database.c504uii0sqgj.us-east-1.rds.amazonaws.com"
+endpoint = "appmysql.c504uii0sqgj.us-east-1.rds.amazonaws.com"
 
-db_instance_name = "app3tier-database"
+db_instance_name = "appmysql"
 
 
 if __name__ == "__main__":
